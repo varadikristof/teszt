@@ -1,0 +1,21 @@
+A Lausanne-i Egyetem kutat�si eredm�nye
+a számitógépek neméröl
+
+
+Egy sv�jci vizsg�latban egy n�kb�l �s egy f�rfiakb�l �ll� csoportnak azt kellett megmondania, hogy milyen nem� a sz�m�t�g�p, �s n�gy �rvvel kellett al�t�masztaniuk �ll�spontjukat.
+
+A n�i szak�rt�csoport h�mnem�nek tal�lta a sz�m�t�g�pet, mert:
+
+El�bb be kell kapcsolni, hogy azt�n odafigyeljen az emberre.
+Tele van inform�ci�val, de nincs fant�zi�ja.
+Arra lenne, hogy seg�tse az embert, de az id� nagy r�sz�ben � maga a probl�ma.
+Mihelyt az embernek van egy, r�gt�n r�j�n, hogy ha v�rt volna m�g egy kicsit, j�val nagyobb teljes�tm�ny� modellt vehetett volna.
+
+A f�rfi szak�rt�csoport szerint a sz�m�t�g�p n�nem�, mert:
+
+Csak a teremt�je �rti a bels� logik�j�t.
+Az a nyelv, amin egy m�sik sz�m�t�g�ppel besz�l, teljesen �rthetetlen.
+A legkisebb hib�t is elt�rolja a mem�ri�j�ban, hogy azt�n a legalkalmatlanabb pillanatban h�vja el�.
+Mihelyt az embernek van egy, r�gt�n r�j�n, hogy a kereset�nek fel�t kieg�sz�t�kre k�nytelen k�lteni.
+
+Lausanne, 2016.
